@@ -180,10 +180,3 @@ Copyright (c) 2025 <Your Name>
 If you want help integrating SessionLock into your project or need feature work: open an issue.
 
 ---
-
-### Final notes
-
-* Add screenshots/GIFs to this README to help users understand the lock UI and analytics view.
-* In the repo, add a `docs/` folder for design notes and native Android code documentation (manifest entries, services, receivers).
-
----
